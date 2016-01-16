@@ -20,7 +20,7 @@ body {
     margin: 0;
 }
 h1 {
-    color: #062946;
+    color: #3390F1;
     font-family: HalisR-Regular;
     font-size: 3.5em;
     text-transform: uppercase;
@@ -44,7 +44,7 @@ p {
     margin-bottom: 20px;
 }
 p a {
-    color: #062946;
+    color: #3390F1;
     text-decoration: underline;
 }
 li, h3 {
@@ -175,7 +175,7 @@ li, h3 {
 }
 }.button {
     background-color: #fff;
-    color: #062946;
+    color: #3390F1;
     border: 2px solid #efefef;
     border-radius: 4px;
     font-family: HalisR-Black;
@@ -195,19 +195,19 @@ li, h3 {
     font-style: italic;
 }
 .dark {
-    color: #062946;
+    color: #3390F1;
     background-color: #efefef;
-    border-color: #062946;
+    border-color: #3390F1;
 }
 .dark:hover {
-    background-color: #062946;
+    background-color: #3390F1;
     color: #fff;
 }
 .head-section {
     height: 50pc;
     margin: 0;
     background-position: center top;
-    background-color: #062946;
+    background-color: #3390F1;
 }
 .head-section .head-text {
     text-align: center;
@@ -270,7 +270,7 @@ li, h3 {
     font-family: "Open Sans";
     font-weight: 300;
     font-style: italic;
-    color: #062946;
+    color: #3390F1;
     font-size: 2em;
     line-height: 1.75em;
 }
@@ -313,7 +313,7 @@ header {
     position: absolute;
     top: 26px;
     height: 3px;
-    background-color: #062946;
+    background-color: #3390F1;
 }
 #nav-wrapper:not(.navbar-fixed-top) {
     position: absolute;
@@ -325,7 +325,7 @@ header {
     display: none;
 }
 #nav-wrapper .navbar-toggle .icon-bar {
-    background-color: #062946;
+    background-color: #3390F1;
 }
 #nav-wrapper #slider-wrapper {
     position: relative;
@@ -360,7 +360,7 @@ header {
     -webkit-transition: border .3s, height .3s, top .3s;
     transition: border .3s, height .3s, top .3s;
     border: 3px solid #efefef;
-    background-color: #062946;
+    background-color: #3390F1;
     content: " "}
 @media (min-width:768px) {
     #nav-bubbles .bubble: :before {
@@ -385,7 +385,7 @@ header {
     top: 0;
 }
 }#nav-bubbles .bubble.active::after {
-    background-color: #062946;
+    background-color: #3390F1;
 }
 #nav-links {
     min-height: 30px;
@@ -492,7 +492,7 @@ header {
 .navbar-brand h2 {
     margin-top: 0;
     font-size: 20px;
-    color: #062946;
+    color: #3390F1;
     text-transform: uppercase;
     font-family: HalisR-Black;
 }
@@ -513,7 +513,7 @@ header {
     font-family: HalisR-Regular;
     font-size: .5em;
     margin: 0;
-    color: #062946;
+    color: #3390F1;
     text-transform: uppercase;
 }
 .body-section {
@@ -527,7 +527,7 @@ header {
 }
 .body-section hr {
     height: 4px;
-    background: #062946;
+    background: #3390F1;
     margin-top: -60px;
     margin-bottom: 60px;
     z-index: -10;
@@ -607,7 +607,7 @@ header {
 .tabs nav {
     position: relative;
     height: 68px;
-    background-color: #062946;
+    background-color: #3390F1;
     border-radius: 3px;
 }
 .tabs nav ul {
@@ -772,7 +772,7 @@ header {
     font: "Open Sans";
     font-weight: 300;
     padding: 75px 50px;
-    background-color: #062946;
+    background-color: #3390F1;
 }
 .footer-section img {
     margin-bottom: 10px;
@@ -809,7 +809,7 @@ header {
 }
 .number-box {
     font-size: 24px;
-    border: 3px solid #062946;
+    border: 3px solid #3390F1;
     border-radius: 10px;
     color: #fff;
     padding: 0 15px;
@@ -827,11 +827,11 @@ header {
 .number-box .left {
     font-family: HalisR-Light;
     color: #fff;
-    background-color: #062946;
+    background-color: #3390F1;
 }
 .number-box .right {
     font-family: HalisR-Black;
-    color: #062946;
+    color: #3390F1;
     font-size: 30px;
     line-height: 30px;
     position: relative;
@@ -926,7 +926,7 @@ header {
     border-left: 50px solid transparent;
 }
 table.schedule {
-    border: 1px solid #062946;
+    border: 1px solid #3390F1;
     width: 100%;
     margin-bottom: 40px;
 }
@@ -934,7 +934,7 @@ table.schedule tr td, table.schedule tr th {
     padding: 10px 20px;
 }
 table.schedule tr th {
-    background-color: #062946;
+    background-color: #3390F1;
     color: #fff;
 }
 table.schedule tr:nth-child(even) {
@@ -943,11 +943,11 @@ table.schedule tr:nth-child(even) {
 table.schedule tr td.none {
     border: 1px solid #efefef;
     background-color: #efefef;
-    border-top: 1px solid #062946;
+    border-top: 1px solid #3390F1;
 }
 #spon-section {
     padding-top: 75pt;
-    background-color: #062946;
+    background-color: #3390F1;
     text-align: center;
     padding-bottom: 75pt;
 }
@@ -994,7 +994,7 @@ table.schedule tr td.none {
 .header {
   width: 100%;
   height: 75px;
-  background-color: #062946;
+  background-color: #3390F1;
   color: white;
 }
 .header a h1 {
